@@ -10,6 +10,11 @@
 - [substack](https://github.com/substack)
 
 
+## Talks
+
+- [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by [Anil Dash](http://anildash.com/)
+
+
 ## Youtube Channels
 
 - [Adjy Leak](https://www.youtube.com/channel/UCxfh-2aOR5hZUjxJLQ2CIHw)
