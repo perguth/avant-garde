@@ -19,3 +19,7 @@
 - [feross](https://github.com/feross/)
 - [mafintosh](https://github.com/mafintosh)
 - [substack](https://github.com/substack)
+
+***
+ 
+> *“We will create a civilization of the Mind in Cyberspace. May it be more humane and fair than the world your governments have made before.” - [A Declaration of the Independence of Cyberspace](https://github.com/pguth/Declaration-Final)*
