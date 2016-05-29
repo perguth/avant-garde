@@ -12,3 +12,10 @@
 - [Shots of Awe](https://www.youtube.com/channel/UClYb9NpXnRemxYoWbcYANsA)
 - [substack](https://www.youtube.com/channel/UC1VuM-QcGVYiZUnFhU5oG5g)
 - [Vinay Gupta](https://www.youtube.com/user/hexayurt)
+
+
+## Github
+
+- [feross](https://github.com/feross/)
+- [mafintosh](https://github.com/mafintosh)
+- [substack](https://github.com/substack)
