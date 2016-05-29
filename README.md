@@ -2,7 +2,7 @@
 
 > People to follow, videos to watch, articles to read.
 
-# Youtube Channels
+## Youtube Channels
 
 - [Adjy Leak](https://www.youtube.com/channel/UCxfh-2aOR5hZUjxJLQ2CIHw)
 - [Caleb James DeLisle](https://www.youtube.com/channel/UCe5PHn3-eJMfK0VFRVEz7Xw)
