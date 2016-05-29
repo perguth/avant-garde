@@ -2,6 +2,14 @@
 
 > People to follow, videos to watch, articles to read.
 
+
+## Github
+
+- [feross](https://github.com/feross/)
+- [mafintosh](https://github.com/mafintosh)
+- [substack](https://github.com/substack)
+
+
 ## Youtube Channels
 
 - [Adjy Leak](https://www.youtube.com/channel/UCxfh-2aOR5hZUjxJLQ2CIHw)
@@ -13,12 +21,6 @@
 - [substack](https://www.youtube.com/channel/UC1VuM-QcGVYiZUnFhU5oG5g)
 - [Vinay Gupta](https://www.youtube.com/user/hexayurt)
 
-
-## Github
-
-- [feross](https://github.com/feross/)
-- [mafintosh](https://github.com/mafintosh)
-- [substack](https://github.com/substack)
 
 --
 
