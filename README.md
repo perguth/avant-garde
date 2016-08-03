@@ -29,4 +29,4 @@
 
 --
 
-> *“We will create <b>a</b> civilization of the Mind in Cyberspace. May it be more humane and fair than the world your governments have made before.” - [A Declaration of the Independence of Cyberspace](https://github.com/pguth/Declaration-Final)*
+> *“To change everything, start anywhere.” - [To Change Everything, an anarchist appeal](http://crimethinc.com/tce/)*
