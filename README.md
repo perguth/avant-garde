@@ -2,6 +2,9 @@
 
 > People to follow, videos to watch, articles to read.
 
+## Articles
+
+- [The Web Must Die](http://transitiontech.ca/html/march_23_2014.html) by Caleb James DeLisle
 
 ## Github
 
