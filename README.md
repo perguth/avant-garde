@@ -16,6 +16,7 @@
 ## Talks
 
 - [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by [Anil Dash](http://anildash.com/)
+- [United as One, Divided by Zero](https://www.youtube.com/watch?v=IBdgbiv5940) by [Caleb James DeLisle](https://github.com/cjdelisle)
 
 
 ## Youtube Channels
